@@ -1,0 +1,7 @@
+{
+  "title": "Hallo React",
+  "content": {
+    "textOne": "Willkommen bei uns.",
+    "textTwo": "Willkommen bei <1>uns</1>."
+  }
+}
