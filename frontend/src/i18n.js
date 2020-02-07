@@ -37,7 +37,6 @@ i18n
     // ** Extract **
 
     // npm run extract
-    // bug: <Trans></Trans> component not extracted
     // https://github.com/i18next/i18next-parser/issues/205
 
     // ** Custom Backend **

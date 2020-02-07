@@ -23,12 +23,12 @@ module.exports = {
 
   // see below for more details
   lexers: {
-    js: ['JavascriptLexer'], // if you're writing jsx inside .js files, change this to JsxLexer
-    ts: ['JavascriptLexer'],
+    js: ['JsxLexer'], // if you're writing jsx inside .js files, change this to JsxLexer
+    ts: ['JsxLexer'],
     jsx: ['JsxLexer'],
     tsx: ['JsxLexer'],
 
-    default: ['JavascriptLexer'],
+    default: ['JsxLexer'],
   },
 
   // lineEnding: 'auto',
