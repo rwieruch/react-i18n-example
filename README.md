@@ -4,6 +4,8 @@
 - https://www.npmjs.com/package/react-i18next
 - https://react.i18next.com/
 
+[Read more about it.](https://www.robinwieruch.de/react-internationalization)
+
 ## Installation
 
 - `git clone <repo>`
